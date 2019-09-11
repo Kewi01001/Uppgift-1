@@ -1,0 +1,100 @@
+body{background-color:black;
+ color:Orange;
+    text-size:150;%
+font-size: 80%;
+background-image:url("(teemo-league-of-legends-champion.jpg"); }
+h1{
+    color:red;
+    text-size: 250%
+}
+ h2{color:blue;
+    text-size: 200%
+}
+.greentext{
+     color:black;
+border:5px solid grey;
+    background-color:white;
+font-family:Serif;
+font-size:14px;} 
+h3{ 
+    color:blue;
+    text-size: 200% 
+}
+tr{color:black;
+}
+td{color:black;
+}
+th{color:black;
+}
+tr{border:6px solid red;
+}
+td{border:6px solid orange;
+}
+th{border:6px solid red;
+}
+}
+th{background-color:orange;
+}
+td{background-color:orange;
+}
+table{width:100%;
+}
+li{color:white;
+}
+li{color:white;
+}
+li{background-color:grey;
+}
+li{background-color:grey;
+}
+li{background-color:grey;
+}
+div{background-color:white;
+border:3px solid grey;
+}
+div{font-family:Serif;
+    font-size: 16px;
+    width:10%}
+.Classes{ background-color:white;
+    border:6px solid Grey;
+    width:25%; 
+    Margin:25px;
+}
+li{border:6px solid green;
+width:25%;}
+li{border:6px solid green;
+width:25;}
+li{border:6px solid green;
+width:25%;}
+img{border:7px solid white;
+}
+img{border:7px solid white;
+}
+
+
+style{
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
+h4{color:blue;
+    text-size: 250%;
+    border:6px solid white;
+}
+legend{color:white;
+}
+label{color:white;
+}
+label{color:white;
+}
+label{color:white;
+}
+tr:nth-child(even){
+    background-color:Grey;
+}
+th{text-align:left; 
+ 
+   } 
+th,td,table{border-collapse: collapse; 
+}
